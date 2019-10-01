@@ -1,4 +1,4 @@
-# day_1_layout
+# day_2_layout
 
 Starter code for Flutter Layouts lecture
 
